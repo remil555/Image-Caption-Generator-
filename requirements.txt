@@ -1,0 +1,6 @@
+1. Tensorflow V2.0
+2. pandas
+3. numpy
+4. pickle
+5. PIL
+6. OpenCv

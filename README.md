@@ -23,10 +23,3 @@
   <li>OpenCv</li>
 </ul>
 
-<h2>Examples </h2>
-<img src = "/images/snow.png">
-<img src = "/images/group.png">
-<img src = "/images/dog.png">
-<img src = "/images/race.png">
-<img src = "/images/guitar.png">
-<img src = "/images/work.png">

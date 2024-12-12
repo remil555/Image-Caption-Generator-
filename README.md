@@ -18,3 +18,7 @@
   <li>OpenCv</li>
 </ul>
 
+## Sample Output
+![Screenshot 2023-12-10 104537](https://github.com/user-attachments/assets/1f3b3f92-8ae6-4594-ba15-a958399273d2)
+
+
